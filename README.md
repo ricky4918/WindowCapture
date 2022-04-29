@@ -1,2 +1,3 @@
 # WindowCapture
-Image Processing with OpenCv
+
+Windowcapture & image processing with OpenCV library with Python
